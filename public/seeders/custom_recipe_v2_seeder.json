@@ -1,0 +1,312 @@
+[
+    {
+        "prompt": "ingredients:bread, chicken, cheese, eggs@cuisine:chinese@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "Malaysian-Style Rice and Sweet Potato Bowl\n\nIngredients:\n\n- 2 cups of long-grain white rice\n- 2 potatoes, chopped into small cubes\n- 2 tablespoons of raz-el-hanout spice blend\n- 1 aubergine, diced\n- 1 courgette, diced\n- 1 sweet potato, diced\n- 1/2 teaspoon of salt\n- 2 tablespoons of vegetable oil\n\nInstructions:\n\n1. Preheat oven to 400 degrees F (205 degrees C).\n\n2. Rinse the rice under cold water until it is no longer cloudy and then let it sit in cold water for 10 minutes.\n\n3. Drain the rice and add to a pot with 2 cups of water. Bring to a boil over high heat, then lower heat to medium-low and let simmer for 20 minutes.\n\n4. In a separate bowl, combine potatoes, raz-el-hanout, aubergine and courgette. Toss with 1 tablespoon of vegetable oil.\n\n5. Place the vegetables on a lightly greased baking sheet and bake in preheated oven for 20 minutes, or until golden brown. \n\n6. Heat 1 tablespoon of oil in a large pot over medium heat. Add in the sweet potato and season with salt. Sauté for 5 minutes.\n\n7. When the rice is done, add it to the pot with the sweet potato and stir to combine. Cook for an additional 5 minutes.\n\n8. Serve the rice and sweet potato immediately with the roasted vegetables on top. Enjoy!",
+        "type": "custom_recipe",
+        "prompt_tokens": 286,
+        "completion_tokens": 198,
+        "total_tokens": 484,
+        "created_at": "2023-03-09T19:01:41.000000Z",
+        "updated_at": "2023-03-09T19:01:41.000000Z"
+    },
+    {
+        "prompt": "ingredients:ingredients:salmon, rice, broccoli, asparagus, lemon@cuisine:american@maxCalories:377@maxCookTime:27@servings:3@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Lemon-Parsley Salmon with Rice and Vegetables\n[ingredients]:3 (4-oz) skin-on salmon fillets@1 tsp olive oil@1 garlic clove, minced@3/4 cup long grain white rice@2 1/2 cups chicken broth or vegetable broth@1/4 tsp kosher salt@1/4 cup fresh parsley leaves@Juice of 1/2 lemon@1 cup broccoli florets@1/2 cup asparagus cut into 2-inch pieces\n[instructions]:In a large pan, heat olive oil over medium heat. Add garlic and stir.@Add rice and broth and bring to a boil. Reduce heat to low and season with salt. Simmer, covered, until rice is cooked, about 15 minutes.@Meanwhile, prepare the salmon and vegetables. Place fillets on a plate, season with salt and pepper, then set aside. Place broccoli and asparagus in a medium bowl.@When the rice is nearly finished cooking, add the broccoli and asparagus to the pot and cook for 3-4 minutes. Place salmon filets on top, tablespoon full of parsley, and lemon juice. Cover the pot and cook for another 4-5 minutes or until salmon is cooked through.@Fluff the rice with a fork, then transfer to a serving platter. Top with the salmon and vegetable mixture, garnish with remaining parsley, and serve.\n[calories]:377 cals/serving\n[servings]:3\n[cook_time]:27 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 294,
+        "completion_tokens": 326,
+        "total_tokens": 620,
+        "created_at": "2023-03-09T19:02:30.000000Z",
+        "updated_at": "2023-03-09T19:02:30.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:400@maxCookTime:45@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Mince Beef and Vegetable Pasta\n[ingredients]:1/2 cup cauliflower florets, chopped@1/2 cup carrots, chopped@1/4 lb mince beef@1/4 cup cherry tomatoes, chopped@4-5 oz pasta of your choice@2 cloves garlic, minced@1 tsp Italian herbs@1 tbsp olive oil@salt, to taste@pepper, to taste\n[instructions]:Bring a pot of salted water to a boil over medium-high heat; add the pasta and cook until al dente, according to the instructions on the package.@In the meantime, heat a large skillet over medium-high heat; add the olive oil, garlic and the mince beef. Cook, stirring, for 7-8 minutes or until the mince is browned.@Add the vegetables and herbs; season with salt and pepper, to taste, and cook, stirring occasionally, until the vegetables are softened and the mince is cooked through, about 10-15 minutes.@Once the vegetables are cooked, add the cherry tomatoes and stir to combine.@Once the pasta is cooked, drain it thoroughly and set aside.@Add the cooked pasta to the skillet and stir everything to combine. Cook for a few more minutes, stirring occasionally.@Serve warm. Enjoy!\n[calories]:400 cals/serving\n[servings]:2\n[cook_time]:30 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 292,
+        "completion_tokens": 302,
+        "total_tokens": 594,
+        "created_at": "2023-03-09T19:17:36.000000Z",
+        "updated_at": "2023-03-09T19:17:36.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:400@maxCookTime:45@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Ragu alla Bolognese\n[ingredients]:3 tablespoons olive oil@1/2 cup onions, diced@1 cup carrots, diced@1/2 cup cauliflower, diced@200g mince beef@1/2 teaspoon garlic powder @1/2 teaspoon dried oregano@1/2 teaspoon dried basil@1/2 teaspoon paprika@1/2 cup cherry tomatoes, quartered@1/2 teaspoon sugar@1/4 teaspoon salt@1/4 teaspoon pepper@1/2 cup tomato passata@1/2 cup dry pasta\n[instructions]:Heat oil in a large skillet over medium heat.@Add onions, carrots and cauliflower, and cook for 5 minutes.@Add the mince beef and stir to combine. Cook for a further 5 minutes.@Season with garlic powder, oregano, basil, paprika, sugar, salt and pepper.@Stir in tomatoes and tomato passata, then reduce heat to low. Simmer for 15 minutes.@Meanwhile, cook the pasta according to package instructions in a separate pot.@Once sauce has simmered, remove from the heat and mix in the cooked pasta.@Serve hot and enjoy!\n[calories]:360 cals/serving\n[servings]:2\n[cook_time]:30 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 292,
+        "completion_tokens": 281,
+        "total_tokens": 573,
+        "created_at": "2023-03-09T19:17:55.000000Z",
+        "updated_at": "2023-03-09T19:17:55.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:400@maxCookTime:45@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:One-Pot Spaghetti\n[ingredients]:1 head of cauliflower, cut into small florets@3 carrots, cut into 1/4-inch dice@1 lb ground beef@1/2 cup cherry tomatoes, halved@1/2 lb spaghetti\n[instructions]:Bring a large pot of salted water to a boil.@Add the spaghetti and cook for 8 minutes.@Add the cauliflower and carrots to the pot and cook for another 6 minutes.@Push the vegetables to the side and add the ground beef to the pot. Cook for 3 minutes, then mix with the vegetables.@Add the cherry tomatoes and cook for 2 minutes.@Drain the spaghetti and vegetables and add back to the pot. Mix everything together and serve.\n[calories]:400 cals/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 253,
+        "completion_tokens": 187,
+        "total_tokens": 440,
+        "created_at": "2023-03-09T19:20:27.000000Z",
+        "updated_at": "2023-03-09T19:20:27.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:400@maxCookTime:45@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:One-Pan Cauliflower and Beef Pasta\n[ingredients]:1 lb minced beef@2 cloves garlic, minced@2 cups carrots, diced@2 cups cherry tomatoes@1 head cauliflower, chopped into florets@1/2 cup parmesan cheese@1/4 cup olive oil@1/4 cup fresh parsley, chopped@2 tsp. Italian seasoning@2 tsp. red pepper flakes@1/2 tsp. sea salt@1/2 tsp. black pepper@2 cups uncooked pasta\n[instructions]:Preheat oven to 400°F.@In an oven-safe baking dish, combine the minced beef, garlic, carrots, tomatoes, and cauliflower.@Drizzle olive oil, parsley, Italian seasoning, red pepper flakes, salt, and pepper over the mixture and stir to coat all the ingredients evenly.@Cover the baking dish with a lid or aluminum foil and bake in preheated oven for 30 minutes.@Remove the lid or foil, add the uncooked pasta, and stir everything together, coating the pasta with the beef and vegetables juices.@Sprinkle the parmesan cheese over the top and bake in the oven, uncovered, for an additional 15 minutes.@Serve warm.Enjoy!\n[calories]:400 cals/serving\n[servings]:2\n[cook_time]:45 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 253,
+        "completion_tokens": 289,
+        "total_tokens": 542,
+        "created_at": "2023-03-09T19:21:11.000000Z",
+        "updated_at": "2023-03-09T19:21:11.000000Z"
+    },
+    {
+        "prompt": "ingredients:salmon, rice, broccoli, asparagus, lemon@cuisine:any@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Lemon-Dill Salmon with Roasted Vegetables\n[ingredients]:2 (4-ounce) salmon fillets@1 cup cooked white rice@1 cup boiled broccoli@1 cup boiled asparagus@2 Tbsp. olive oil@1 tsp. lemon zest@1 1/2 tsp. freshly squeezed lemon juice@1 Tbsp. chopped fresh dill\n[instructions]:Preheat the oven to 400°F.@In a medium bowl, combine the broccoli, asparagus, olive oil, lemon zest, lemon juice and dill and toss to combine.@Place the vegetables on a baking sheet and bake for 15 minutes.@Meanwhile, place the salmon fillets on a separate baking sheet and bake for 12 minutes or until cooked through.@To assemble the dish, divide the cooked white rice between two plates. Top each plate with a cooked salmon fillet and roasted vegetables and serve. \n[calories]:450 cals/serving\n[servings]:2\n[cook_time]:27 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 251,
+        "completion_tokens": 220,
+        "total_tokens": 471,
+        "created_at": "2023-03-09T19:24:19.000000Z",
+        "updated_at": "2023-03-09T19:24:19.000000Z"
+    },
+    {
+        "prompt": "ingredients:salmon, rice, broccoli, asparagus, lemon@cuisine:any@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Teriyaki Salmon and Vegetables\n[ingredients]:2 (6-oz) salmon fillets@2 tablespoons teriyaki sauce@1 cup cooked rice@1 cup broccoli florets@1 cup asparagus@1 lemon\n[instructions]:Preheat oven to 375 degrees F.@Season the salmon with salt and pepper.@In a large oven-safe skillet over medium-high, heat canola oil.@Add the salmon to the skillet and cook until browned on both sides, about 3 minutes total.@Brush the salmon with the teriyaki sauce, then top with the cooked rice and vegetables.@Transfer the skillet to the oven and bake for 8 minutes.@Squeeze the juice from half of the lemon over the dish.@Serve the salmon and vegetables with rice. Enjoy!\n[calories]:499 cals/serving\n[servings]:2\n[cook_time]:15 minutes\n[pantry_items]:canola oil,salt,pepper",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 266,
+        "completion_tokens": 217,
+        "total_tokens": 483,
+        "created_at": "2023-03-09T19:25:10.000000Z",
+        "updated_at": "2023-03-09T19:25:10.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Cheesy Cauliflower Tuna Pasta Bake\n[ingredients]:1/2 head cauliflower, chopped into florets@1/2 cup carrots, diced@1/3 lb ground beef@3/4 cup cherry tomatoes, sliced@1/2 cup elbow macaroni or small pasta @salt and pepper, to taste@1/2 cup shredded cheese\n[instructions]:Preheat the oven to 350 degrees Fahrenheit.@Bring a pot of salted water to a boil and add the cauliflower and carrots. Cook for 4 minutes, then drain the vegetables.@Meanwhile, cook the beef in a large skillet over medium-high heat until it is no longer pink. Add the tomatoes and cook for another 1-2 minutes.@In a large bowl, combine the vegetables, beef and tomatoes. Stir in the pasta and season with salt and pepper.@Transfer the mixture to a greased 9 inch baking dish. Cover with foil and bake for 20 minutes.@Uncover the dish and sprinkle with the cheese. Bake for an additional 5 minutes, or until the cheese is melted.@Serve hot with your favorite side dishes. Enjoy!\n[calories]:400 cals/serving\n[servings]:2\n[cook_time]:30 minutes\n[pantry_items]:olive oil, garlic powder, paprika, dried herbs",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 268,
+        "completion_tokens": 288,
+        "total_tokens": 556,
+        "created_at": "2023-03-09T19:30:28.000000Z",
+        "updated_at": "2023-03-09T19:30:28.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Cauliflower & Mince Beef Pasta Skillet\n[ingredients]:2 cups of cauliflower florets@1 large carrot, diced@1/2 pound lean ground beef@3 cloves garlic, minced@3/4 teaspoon Italian seasoning@1/4 teaspoon red pepper flakes (optional)@1/4 cup tomatoes, chopped@1 tablespoon olive oil@4 ounces whole-wheat pasta@1/4 cup water or unsalted vegetable broth@salt to taste\n[instructions]:Heat the olive oil in a large skillet over medium-high heat.@Add the ground beef and crumbling it up into small pieces as it cooks. Season with salt and cook until the beef is browned, about 5 minutes.@Add the garlic, carrots, cauliflower and Italian seasoning and sauté for 4 minutes.@Add the cherry tomatoes, red pepper flakes and water or vegetable broth and stir together. Bring to a simmer and cook covered for 4 more minutes.@Meanwhile, bring a pot of salted water to a boil and cook the whole-wheat pasta according to package directions. Once cooked, drain and set aside.@Once the vegetables have cooked through, add the cooked pasta to the skillet and toss everything together. Simmer for 1-2 minutes to heat the pasta through. Adjust seasonings to taste if needed.@Serve warm and enjoy!\n[calories]:434 cals/serving\n[servings]:2\n[cook_time]:25 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 292,
+        "completion_tokens": 312,
+        "total_tokens": 604,
+        "created_at": "2023-03-09T19:32:03.000000Z",
+        "updated_at": "2023-03-09T19:32:03.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Cauliflower and Carrot Bolognese\n[ingredients]:1 cup cauliflower florets@2 carrots, diced@1/2 pound ground beef@1 cup cherry tomatoes, halved @3 cloves garlic, minced@Salt & pepper to taste@2 tbsp tomato paste@Parmesan cheese (optional)@1/2 pound cooked pasta of your choice\n[instructions]:In a large skillet, cook the ground beef over medium-high heat until browned. Drain away any excess fat.@Add the diced carrots, garlic and cauliflower florets and cook for 5 minutes.@Stir in the tomato paste and cherry tomatoes, season with salt and pepper. Simmer for 10 minutes or until most of the liquid has evaporated.@Serve the bolognese over cooked pasta, topped with parmesan cheese if desired. Enjoy!\n[calories]:330 cals/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 300,
+        "completion_tokens": 210,
+        "total_tokens": 510,
+        "created_at": "2023-03-09T19:33:13.000000Z",
+        "updated_at": "2023-03-09T19:33:13.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Beef and Veggie One-Pot Spaghetti\n[ingredients]:1/2 cup mince beef@1/2 head cauliflower, diced into small florets@3 carrots, peeled and diced@1/2 cup cherry tomatoes, halved@2 cups cooked pasta@2 tbsp olive oil@Salt and pepper, to taste\n\n[instructions]:In a large pan over medium heat, add the olive oil and mince beef. Cook mince beef until mostly browned, breaking it up as you go.@Add the diced carrots, cauliflower florets, cherry tomatoes and season with salt and pepper. Cook for about 5 minutes or until the vegetables are slightly softened.@Add the cooked pasta and mix everything together. Cover the pan and cook for about 10 minutes, stirring occasionally, until the vegetables are tender. Add more oil or water if the mixture starts to dry out.@Serve warm. Enjoy!\n\n[calories]:397 cal/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 301,
+        "completion_tokens": 222,
+        "total_tokens": 523,
+        "created_at": "2023-03-09T19:36:05.000000Z",
+        "updated_at": "2023-03-09T19:36:05.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:any@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:One Pot Beef and Vegetable Pasta\n[ingredients]:1/2 lb mince beef@3 cups cauliflower florets, chopped into small pieces@1 large carrot, diced@1 cup cherry tomatoes@3 cloves garlic, diced@1/4 teaspoon oregano@1 teaspoon paprika@3 tablespoons olive oil@3/4 cups pasta (penne, fusilli, rigatoni)\n[instructions]:Heat the olive oil in a large pot, over medium-high heat.@Add the beef to the pot and sauté for 4-5 minutes, stirring occasionally, until slightly browned.@Add the minced garlic, diced carrot and cauliflower to the pot and stir. Sauté for 3-4 minutes, or until the vegetables are beginning to soften.@Stir in the cherry tomatoes and season with oregano and paprika.@Stir in the pasta and cook for 8-10 minutes, stirring frequently. Add water if needed to help cook the pasta.@Once the pasta is cooked through, serve and enjoy!\n[calories]:450 cals/serving\n[servings]:2\n[cook_time]:25 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 275,
+        "completion_tokens": 252,
+        "total_tokens": 527,
+        "created_at": "2023-03-09T19:37:13.000000Z",
+        "updated_at": "2023-03-09T19:37:13.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Spicy Cauliflower Mince Pasta\n[ingredients]:1 head of cauliflower, broken into florets@2 medium carrots, diced@5oz mince beef@1 cup cherry tomatoes, halved@4oz dry pasta of your choice@Oil and salt, to taste\n[instructions]:Bring a pot of salted water to a boil.@Add the dry pasta and cook according to package directions.@Meanwhile, heat oil in a large skillet over medium heat.@Add the mince beef and diced carrots. Cook until beef is browned.@Add the cauliflower florets and cherry tomatoes, stirring occasionally until all of the vegetables are tender. Season with salt and pepper.@When the pasta is cooked, drain it and add it to the skillet with the cooked vegetables. Reduce the heat to low and mix everything together.@Serve warm. Enjoy!\n[calories]: 440 cals/serving\n[servings]: 2\n[cook_time]: 25 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 276,
+        "completion_tokens": 213,
+        "total_tokens": 489,
+        "created_at": "2023-03-09T19:37:47.000000Z",
+        "updated_at": "2023-03-09T19:37:47.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:Italian@maxCalories:500@maxCookTime:30@servings:2@pantry:available@difficulty:easy",
+        "generated_text": "\n[recipe]:Beef and Vegetable Pasta\n[ingredients]:100g Pasta@1/2 cup minced beef@1 cup cauliflower, chopped@1 cup carrots, chopped@12 cherry tomatoes, halved@2 tablespoons olive oil@1 pinch of salt@1 pinch of pepper\n[instructions]:Bring a pot of salted water to a boil and cook the pasta according to package instructions.@In a large skillet, heat olive oil over medium-high heat. Add minced beef and cook until browned. Add the cauliflower, carrots and half of the cherry tomatoes and season with salt and pepper. Cook for 5 minutes, stirring occasionally.@Remove from heat and add the cooked pasta and remaining cherry tomatoes to the pan and stir everything together.@Serve warm and enjoy! \n[calories]:490 cals/serving\n[servings]:2\n[cook_time]:15 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 275,
+        "completion_tokens": 192,
+        "total_tokens": 467,
+        "created_at": "2023-03-09T19:38:16.000000Z",
+        "updated_at": "2023-03-09T19:38:16.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cod, rice , onions, chopped tomatoes@cuisine:portuguese@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Portuguese Cod and Rice\n[ingredients]:2 fillets cod@1/2 cup cooked rice@1/4 onion, diced@1/4 cup chopped tomatoes@1/4 tsp salt@1 pinch ground pepper@1 tbsp oil\n[instructions]:Heat a large skillet over medium-high heat and add the oil.@Add the onions and cook for 1-2 minutes until softened.@Add the chopped tomatoes, season with salt and pepper, and cook for another 2 minutes.@Reduce the heat, add the cod and the cooked rice, cover the skillet, and simmer for 8 more minutes or until the cod is cooked through.@Serve warm. Enjoy!\n[calories]:380 cals/serving\n[servings]:2\n[cook_time]:15 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 279,
+        "completion_tokens": 172,
+        "total_tokens": 451,
+        "created_at": "2023-03-09T19:42:19.000000Z",
+        "updated_at": "2023-03-09T19:42:19.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cod, rice , onions, chopped tomatoes@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Baked Cod and Rice \n[ingredients]:4 ounces cod fillet@1/2 cup cooked rice@1/4 cup chopped onions@1/4 cup chopped tomatoes@1 tablespoon oil@1 pinch salt@1 pinch pepper\n[instructions]:Preheat oven to 375°F.@Line a baking sheet with parchment paper.@In a bowl, mix together the cod fillets, cooked rice, onions and tomatoes.@Drizzle the mixture with 1 tablespoon of oil and season with salt and pepper.@Place the mixture onto the lined baking sheet.@Bake for 15-20 minutes or until the cod is flakes easily.@Serve warm. Enjoy!\n[calories]:242 cals/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 278,
+        "completion_tokens": 170,
+        "total_tokens": 448,
+        "created_at": "2023-03-09T19:42:44.000000Z",
+        "updated_at": "2023-03-09T19:42:44.000000Z"
+    },
+    {
+        "prompt": "ingredients:ajwain, curry, rice, chicken, milk, coconut, mushrooms, tomatoes@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Mushroom Chicken in Curry\n[ingredients]:1/2 cup basmati rice@1 tbsp oil@1 tsp ajwain seeds@1/4 cup mushrooms, sliced@3/4 cup chicken breast, cubed@2 tbsp curry powder@1/4 tsp salt@1/4 tsp pepper@1/4 cup coconut milk@1/4 cup tomatoes, diced\n[instructions]:Rinse the basmati rice and cook according to package instructions.@Heat the oil in a medium pan over medium heat.@Add ajwain seeds and sauté for about 1 minute.@Add the mushrooms and chicken and cook for about 8 minutes.@Stir in the curry powder, salt and pepper.@Add the coconut milk and bring to a boil.@Reduce the heat and simmer until the sauce thickens, about 6 minutes.@Stir in the tomatoes and cook for an additional 2 minutes.@Serve curry over the cooked rice.@Enjoy!\n[calories]:375 cals/serving\n[servings]:2\n[cook_time]:22 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 287,
+        "completion_tokens": 237,
+        "total_tokens": 524,
+        "created_at": "2023-03-09T19:43:45.000000Z",
+        "updated_at": "2023-03-09T19:43:45.000000Z"
+    },
+    {
+        "prompt": "ingredients:ajwain, curry, rice, chicken, coconut, mushrooms, tomatoes, milk@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Easy Coconut Curry with Chicken\n[ingredients]:2 tsp ajwain@2 tsp curry powder@1 cup cooked rice@4 oz chicken (boneless and skinless, cubed)@2 tbsp coconut milk@2 mushrooms, sliced@2 small tomatoes, diced@1/4 cup coconut cream@Salt and pepper to taste\n[instructions]:In a medium skillet or saucepan over medium-high heat, add the ajwain and curry powder and toast for 1 minute.@Add the chicken cubes and cook until lightly golden on all sides, about 5 minutes.@Add the mushrooms, tomatoes, coconut milk and coconut cream and stir to combine. Simmer for 10 minutes.@Add salt and pepper to taste.@Serve over cooked rice. Enjoy!\n[calories]:400 cals/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 287,
+        "completion_tokens": 190,
+        "total_tokens": 477,
+        "created_at": "2023-03-09T19:45:24.000000Z",
+        "updated_at": "2023-03-09T19:45:24.000000Z"
+    },
+    {
+        "prompt": "ingredients:ajwain, curry, rice, chicken, mushrooms, tomatoes, milk@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Ajwain Chicken and Rice\n[ingredients]:1 cup of long grain white rice@2 chicken breasts, cubed@1 tsp ajwain@1/4 tsp ground curry powder@2 tbsp butter@4 oz mushrooms, diced@2 cloves garlic, minced@1 tomato, diced@1/3 cup milk\n[instructions]:In a large skillet set over medium heat, heat the butter.@Add chicken cubes to the skillet and cook for 5-7 minutes, until golden.@Add mushrooms, tomatoes, garlic and curry powder and cook for another 2 minutes.@Add ajwain, stir to combine and then add the rice.@Pour the milk over the top and season with salt and pepper.@Reduce the heat to low and simmer, covered, for 15-20 minutes, or until the rice is cooked.@Stir occasionally while cooking.@Serve hot. Enjoy!\n[calories]:424 cals/serving\n[servings]:2\n[cook_time]:25 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 285,
+        "completion_tokens": 221,
+        "total_tokens": 506,
+        "created_at": "2023-03-09T19:45:45.000000Z",
+        "updated_at": "2023-03-09T19:45:45.000000Z"
+    },
+    {
+        "prompt": "ingredients:sea bass, shrimps, dorado, lime, fanta, onion, tomatoes, cucumber, jalapenos@cuisine:coastal@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Fish Tacos\n[ingredients]: 12 ounces sea bass, cut into thin strips@6 raw shrimp, diced@3 tablespoons jalapenos, minced@2 tablespoon onion, sliced@1/4 cup cucumber, diced@1 medium tomato, diced@Juice of 1 lime@2 tablespoons olive oil@2 tablespoons fish or chicken stock@Salt and pepper to taste\n[instructions]:Preheat oven to 375F.@Heat a large skillet over medium-high heat and add the olive oil.@Once hot, add the fish and season with salt and pepper. Cook for about 3 minutes until cooked through.@Add the onions to the skillet. Cook together for an additional two minutes @Remove from heat and stir in the shrimp, tomatoes, jalapenos and cucumber.@Transfer mixture to a lined baking sheet and cook for 25 minutes stirring twice during cooking time.@Halfway through cooking time, add the fresh lime juice to the pan and mix together.@When fully cooked, assemble the tacos using warm tortillas. Add desired toppings and enjoy! \n[calories]:372 cals/serving\n[servings]:2\n[cook_time]:30 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 298,
+        "completion_tokens": 252,
+        "total_tokens": 550,
+        "created_at": "2023-03-09T19:49:08.000000Z",
+        "updated_at": "2023-03-09T19:49:08.000000Z"
+    },
+    {
+        "prompt": "ingredients:bread,eggs,butter@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Egg Scramble Sandwich\n[ingredients]:2 slices bread@2 eggs@2 tsp butter@1 tbsp water@1 pinch salt@1 pinch pepper\n[instructions]:In a bowl, crack the eggs and whisk in the water. Add salt and pepper to taste.@Heat a skillet over medium heat and add 1 teaspoon of butter.@Once the butter has melted, add the egg mixture and scramble until cooked through.@Remove from the pan and set aside on a plate or cutting board.@Using the remaining teaspoon of butter, spread onto one side of each slice of bread. Place the buttered sides down onto the skillet used for the Eggs.@Toast for 2-3 minutes until golden brown.@Assemble the sandwich by placing the Egg Scramble between both pieces of toast. Enjoy!\n[calories]:430 cals/serving\n[servings]:2\n[cook_time]:10 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 277,
+        "completion_tokens": 198,
+        "total_tokens": 475,
+        "created_at": "2023-03-09T20:07:06.000000Z",
+        "updated_at": "2023-03-09T20:07:06.000000Z"
+    },
+    {
+        "prompt": "ingredients:bread,eggs,butter@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:hard",
+        "generated_text": "\n[recipe]:Egg in the Hole Breakfast Sandwich\n[ingredients]:2 slices of bread@1 tbsp butter@2 large eggs@Salt and pepper to taste \n[instructions]:Preheat a skillet over medium heat.@Spread butter onto one side of each slice of bread.@Using a cookie cutter or cup, cut out a hole in the center of both pieces of bread. Place them buttered-side-down into the pan.@Crack an egg into each of the holes in the bread. Sprinkle lightly with salt and pepper.@Cook until the bottom of the bread is golden brown and the edges of the eggs have set.@Carefully flip the sandwiches so that the eggs stay inside the hole of the bread.@Continue cooking until your desired doneness has been reached.@Serve warm! Enjoy!\n[calories]:330 cals/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 277,
+        "completion_tokens": 198,
+        "total_tokens": 475,
+        "created_at": "2023-03-09T20:11:55.000000Z",
+        "updated_at": "2023-03-09T20:11:55.000000Z"
+    },
+    {
+        "prompt": "ingredients:carrots, lamb steak, onions, broccoli, pasta, rice, ketchup, lemons, white vinegar@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Lamb and Vegetable Stir-Fry\n[ingredients]:4 oz lamb steak (cut into small cubes)@1 carrot (sliced)@2 onions (diced)@1/4 head of broccoli (florets only)@1/3 cup rice noodles@ 1 tbsp olive oil@2 tsp ketchup@ juice from half a lemon @ 2 tsp white vinegar@1 pinch salt@1 pinch pepper\n\n[instructions]:Heat the oil in a large pan over medium heat. Add the lamb, onion, and carrots and stir-fry until the lamb is cooked through and the vegetables are tender.@Add the broccoli florets and continue to stir-fry for an additional two minutes.@Stir in the noodles and cook for one minute before adding the ketchup, lemon juice, vinegar, and seasonings. Mix everything together and let simmer until the sauce thickens. Serve immediately.\n[calories]:400 cals/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 292,
+        "completion_tokens": 221,
+        "total_tokens": 513,
+        "created_at": "2023-03-09T20:23:22.000000Z",
+        "updated_at": "2023-03-09T20:23:22.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Mince and Vegetable Pasta\n[ingredients]:4 oz mince beef@1/2 head of cauliflower (separated into florets)@2 carrots (sliced)@1/3 cup cherry tomatoes (cut in half)@1/3 cup pasta of your choice@1 tbsp olive oil@1 pinch salt@1 pinch pepper\n[instructions]:Bring a pot of salted water to a boil. Add the pasta and cook until al dente. @In a large skillet, heat the oil over medium-high heat, then add the mince beef, breaking it up with a spoon or spatula as you go. Cook for two minutes, stirring occasionally.@Add the cauliflower florets, carrots, and cherry tomatoes. Stir-fry everything together for another three minutes, adding more oil if needed to prevent sticking.@Reduce heat to low. Drain the cooked pasta, reserving 1/4 cup of cooking liquid, and add it to the skillet. Mix everything together gently until the sauce thickens.@Serve warm. Enjoy!\n[calories]:412 cals/serving\n[servings]:2\n[cook_time]:20 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 362,
+        "completion_tokens": 255,
+        "total_tokens": 617,
+        "created_at": "2023-03-09T20:27:19.000000Z",
+        "updated_at": "2023-03-09T20:27:19.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Beef and Vegetable Pasta Skillet\n[ingredients]: 8 oz mince beef@1/2 small head cauliflower (cut into small florets)@3 carrots (sliced)@12 cherry tomatoes (halved)@4oz dry pasta@½ Onion (diced)@1 ½ tsp olive oil@Salt and Pepper, to taste. \n[instructions]: Heat the oil in a large skillet over medium heat.@Add the onion and mince beef and cook until meat is browned.@Stir in the cauliflower, carrots and cook for 5 minutes.@Add the cherry tomatoes and mix. Cook for 2 minutes then add the pasta.@Mix everything together and add some water if needed. @Continue cooking until the vegetables are tender and the sauce thickens.@Season with salt and pepper, if desired. @Serve warm. Enjoy!\n[calories]:384 cals/serving\n[servings]:2\n[cook_time]:25 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 362,
+        "completion_tokens": 214,
+        "total_tokens": 576,
+        "created_at": "2023-03-09T20:28:09.000000Z",
+        "updated_at": "2023-03-09T20:28:09.000000Z"
+    },
+    {
+        "prompt": "ingredients:Cauliflower, carrots, mince beef, cherry tomatoes, pasta@cuisine:american@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Beef and Vegetable Bolognese\n[ingredients]:4 oz mince beef@1/2 head of cauliflower (florets only)@2 carrots (diced)@1/3 cup cherry tomatoes (halved)@2 cups cooked pasta of your choice@2 tsp olive oil@1 pinch salt@1 pinch black pepper\n[instructions]: Heat the oil in a large pan over medium heat. @Add the mince beef and cook until browned. @Stir in the carrots and cauliflower, cooking them for 5 minutes or until just starting to soften. @Add the cherry tomatoes and cook for an additional two minutes or until they are softened. @Stir in the cooked pasta and season with salt and pepper. @Mix everything together and let simmer for 3-5 minutes. Serve hot! Bon appetit! \n\n[calories]:420 cals/serving\n[servings]:2 \n[cook_time]:15 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 367,
+        "completion_tokens": 208,
+        "total_tokens": 575,
+        "created_at": "2023-03-09T20:31:03.000000Z",
+        "updated_at": "2023-03-09T20:31:03.000000Z"
+    },
+    {
+        "prompt": "ingredients:banana, kiwi, apple, salad, aubergine, pear, milk@cuisine:portuguese@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Portuguese Fruit and Vegetable Salad\n[ingredients]:1 banana (sliced)@1 kiwi (skinned, halved and sliced)@1 apple (cored, peeled and diced)@3 cups of lettuce leaves (torn into pieces)@1/2 small aubergine (diced)@1 pear (sliced)@1/4 cup reduced-fat milk@1 tablespoon olive oil@1 teaspoon dried oregano@salt & pepper to taste \n\n[instructions]:In a large bowl mix together all the fruit and vegetables.@ In a separate bowl whisk together the milk, olive oil, oregano, salt, and pepper.@Pour the dressing over the salad and toss well to combine. @Refrigerate for 30 minutes to allow flavours to infuse. Served chilled. Enjoy!(random)\n[calories]:243 cals/serving \n[servings]:2\n[cook_time]:35 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 372,
+        "completion_tokens": 212,
+        "total_tokens": 584,
+        "created_at": "2023-03-09T20:32:09.000000Z",
+        "updated_at": "2023-03-09T20:32:09.000000Z"
+    },
+    {
+        "prompt": "ingredients:banana, kiwi, apple, salad, aubergine, pear, milk@cuisine:portuguese@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Portuguese Apple and Banana Salad\n[ingredients]:1 banana, cut into small cubes@1 kiwi fruit, sliced@1 apple, cubed@2 handfuls of salad greens (lettuce, spinach or rocket)@2 aubergines, diced@1 pear, sliced thinly@150ml cold skimmed milk@1 tsp olive oil@1 pinch ground cloves@1 pinch black pepper\n[instructions]:Add the banana, kiwi, apple and salad greens to a bowl and mix. @Heat the oil in a pan over medium heat and add the aubergine and cook until brown.@Add the pear pieces and an extra pinch of ground clove, then pour in the raced milk. Simmer for 5 minutes.@Ladle the hot mixture over the salad ingredients and season with ground pepper. Toss lightly and serve.\n[calories]:250 cals/serving\n[servings]:2\n[cook_time]:15 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 371,
+        "completion_tokens": 206,
+        "total_tokens": 577,
+        "created_at": "2023-03-09T20:33:04.000000Z",
+        "updated_at": "2023-03-09T20:33:04.000000Z"
+    },
+    {
+        "prompt": "ingredients:rice, potato, raz-el-hanout, aubergine, courgette, sweet potato@cuisine:malaysian@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Malaysian-Style Biryani\n[ingredients]:2 cups Basmati rice@1 potato (diced)@1 aubergine (cubed)@ 1 courgette (sliced)@½ sweet potato (diced)@3 tablespoons raz el hanout@ 2 tablespoons olive oil@2 pinches of salt@2 pinches of pepper\n[instructions]:Cook the Basmati rice according to the instructions on the package. Set aside when done.@In a large pan, heat the olive oil over medium-high heat and add the diced potatoes and sweet potatoes. Fry for a few minutes until golden brown. @Add the aubergines and courgettes and sauté for another few minutes until softened.@Stir in the Raz el Hanout spice mix and season with salt and pepper.@Gently fold in the cooked Basmati rice. Reduce the heat to low and gently stir everything together.@Cover the pan and let simmer for 10–15 minutes until the vegetables are tender.@{Serve hot and enjoy!}\n[calories]:484 cals/serving\n[servings]:2\n[cook_time]:25 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 375,
+        "completion_tokens": 256,
+        "total_tokens": 631,
+        "created_at": "2023-03-09T20:33:41.000000Z",
+        "updated_at": "2023-03-09T20:33:41.000000Z"
+    },
+    {
+        "prompt": "ingredients:rice, potato, raz-el-hanout, aubergine, courgette, sweet potato@cuisine:malaysian@maxCalories:500@maxCookTime:30@servings:2@pantry:salt,water,pepper,oil@difficulty:easy",
+        "generated_text": "\n[recipe]:Malaysian Fried Rice\n[ingredients]:1 tbsp vegetable oil@3 cups cooked rice@3/4 cup potato (cut into small cubes)@3/4 cup aubergine (chopped)@3/4 cup courgette (chopped)@1/2 cup sweet potato (cubed)@2 tsp raz-el-hanout@1 pinch salt@1 pinch black pepper\n[instructions]:Heat the vegetable oil in a large pan over medium heat.@Add the potatoes and cook for 5 minutes, stirring occasionally. @Add the sweet potato, aubergine, and courgette to the pan and stir fry until tender.@Stir in the cooked rice and raz-el-hanout spice mix.@Season with salt and pepper.@Fry everything together for a few minutes before serving hot. Enjoy!\n[calories]:406 cals/serving\n[servings]:2\n[cook_time]:15 minutes",
+        "type": "custom_recipe_v2",
+        "prompt_tokens": 373,
+        "completion_tokens": 209,
+        "total_tokens": 582,
+        "created_at": "2023-03-09T20:34:08.000000Z",
+        "updated_at": "2023-03-09T20:34:08.000000Z"
+    }
+]
